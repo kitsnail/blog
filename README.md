@@ -1,3 +1,4 @@
 # blog
 
-![deer](public/deer.png)
+<img src="public/deer.png" width="600" height="400">
+

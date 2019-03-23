@@ -1,3 +1,3 @@
 # Knowledge Summary
 
-- [prometheus](prometheus.md)
+- [prometheus practice](prometheus-practice.md)
